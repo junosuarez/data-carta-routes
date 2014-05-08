@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "name": "1 ALTON PARK",
+    "color": "#cc3399",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "2 NORTH CHATTANOOGA",
+    "color": "#ff6699",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "4 EASTGATE/HAMILTON PL",
+    "color": "#cc0033",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "EASTGATE",
+    "color": "#ff6633",
+    "directions": [
+      "ROUND TRIP"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Hamilton Place",
+    "color": "#ff9900",
+    "directions": [
+      "ROUND TRIP"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "7 CHATTANOOGA HOUSING AUTHORITY",
+    "color": "#cc6633",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "8 EASTDALE",
+    "color": "#ff0099",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "9 EAST LAKE",
+    "color": "#99cc33",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  },
+  {
+    "id": "10A",
+    "name": "10A AVONDALE",
+    "color": "#33cc99",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  },
+  {
+    "id": "10C",
+    "name": "10C CAMPBELL",
+    "color": "#009966",
+    "directions": [
+      "OUT"
+    ]
+  },
+  {
+    "id": "10G",
+    "name": "10G GLENWOOD",
+    "color": "#669966",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "13 ROSSVILLE",
+    "color": "#009966",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "15 ST. ELMO",
+    "color": "#0099cc",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "16 NORTHGATE",
+    "color": "#339999",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  },
+  {
+    "id": "19",
+    "name": " 19 CROMWELL ROAD",
+    "color": "#006699",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "21 GOLDEN GATEWAY",
+    "color": "#660099",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "28 AMNICOLA HWY CHATT STATE",
+    "color": "#cc0099",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "33 DOWNTOWN SHUTTLE",
+    "color": "#ff66ff",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "34 NORTH SHORE SHUTTLE",
+    "color": "#cc33ff",
+    "directions": [
+      "IN",
+      "OUT"
+    ]
+  }
+]
