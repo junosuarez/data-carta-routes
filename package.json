@@ -1,0 +1,24 @@
+{
+  "name": "data-carta-routes",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jden/data-carta-routes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jden/data-carta-routes/issues"
+  },
+  "homepage": "https://github.com/jden/data-carta-routes",
+  "devDependencies": {
+    "cheerio": "^0.15.0",
+    "pr-request": "^0.1.1",
+    "polyfill-promise": "^0.1.2"
+  }
+}
